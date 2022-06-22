@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Resoult-T
-- 🌱 I’m currently learning Python but I've already come into contact with Cotlin and C#
+- 🌱 I’m currently learning Python but I've already come into contact with Kotlin and C#
 - I only develop things when I feel like it. Thats why my code is so shitty :)
 
 - 📫 How to reach me -> Just write me on Discord: ResoulT | Tom#1374
