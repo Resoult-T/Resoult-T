@@ -2,7 +2,7 @@
 Hi my name is Tom,  
 I'm on my way to become a developer. 
 
-I am currently studying on my own after school, but I plan to go to university soon.
+I am currently studying on my own after work, but I plan to go to university soon.
 
 I gladly accept suggestions for improvement.
 
